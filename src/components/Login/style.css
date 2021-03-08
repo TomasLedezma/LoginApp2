@@ -1,0 +1,31 @@
+#info{
+    background-image: url('./imgs/fondo_s.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: max-content;
+    padding-bottom: 5rem;
+    background-position: bottom;
+    padding-top: 7rem;
+    
+    
+}
+@media (min-width: 1024px) {
+    #info{
+        background-image: url('./imgs/fondo_m.jpg');
+        color:rgb(244, 244, 248)
+    }
+}
+#titulo{
+    color: rgb(244, 244, 248);
+}
+#titulo h1{
+   
+    font-size: 2rem;
+}
+#titulo p{
+    padding-top: 2rem;
+    font-size: 1rem;
+}
+
+
+

@@ -1,0 +1,74 @@
+
+.striked {
+    text-decoration: underline;
+  }
+
+  .Todo-Input{
+    padding: 14px 32px 14px 16px;
+    border-radius: 4px 0 0 4px;
+    border: 2px solid #5d0cff;
+    outline: none;
+    display: flex;
+    color: #fff;
+    display: flex;
+  }  
+  
+  .TodoList{
+    color:#fff;
+    margin-top: 2rem;
+    margin-bottom: 2px;
+    text-align: left;
+    margin-left: 3rem;
+    width: max-content;
+    display: flex;
+  }
+
+  .fondo{
+    display: flex;
+  flex-direction: column;
+  justify-content: start;
+  width: 520px;
+  min-height: 650px;
+  background: #050505e1;
+  text-align: center;
+  margin: 0px auto;
+  border-radius: 10px;
+  padding-bottom: 32px;
+  }
+
+  .TodoAddNew{
+    margin-top: 2rem;
+    color: black;
+    
+  }
+
+  .texto{
+    height: 2rem;
+    margin-top: 2px;
+    width: 22.1rem;
+    margin-left: 1rem;
+
+  }
+
+  .texto2{
+    display: flex;
+    font-size: 1.7rem;
+    margin-right: 8px;
+
+  }
+
+  .textotodo{
+    display: flex;
+      margin-top: 0.8rem;
+      margin-bottom: 3px;
+      background-color: rgb(4, 128, 28);
+      justify-content: space-between;
+      height: 4.5rem;
+      align-items: center;
+      border-radius: 4px;
+      margin-left: 0px;
+
+  }
+
+
+
